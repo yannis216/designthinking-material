@@ -1,0 +1,8 @@
+.header{
+  background-image: url(pictures/header.jpg);
+  height: 150px;
+  background-size: 100%;
+  border-bottom: 1px solid white;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
