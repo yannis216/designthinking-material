@@ -3,6 +3,34 @@
   height: 150px;
   background-size: 100%;
   border-bottom: 1px solid white;
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+h1{
+  text-align: center;
+}
+
+.tab-head{
+  text-align: justify;
+}
+
+.category-head{
+  text-align: justify;
+}
+
+.category-picture{
+  height: 400px;
+}
+
+.more{
+  align: right;
+  margin-right: 5%;
+}
+
+.buy{
+  align: right;
+}
+
+.description_container{
 }

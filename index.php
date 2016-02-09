@@ -10,6 +10,10 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
       <link href="dtstyle.css" rel="stylesheet">
+
+      <?php
+        include("products.php");
+      ?>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -25,14 +29,16 @@
       </div>
       <div class="row">
         <div class="col-md-6 col-md-offset-3 role="navigation"">
-          <ul class="nav nav-tabs">
+          <ul class="nav nav-tabs nav-justified">
             <li class="active"><a data-toggle="tab" href="#bundles">Bundles</a></li>
             <li><a data-toggle="tab" href="#whiteboards">Whiteboards</a></li>
             <li><a data-toggle="tab" href="#postits">Post Its</a></li>
             <li><a data-toggle="tab" href="#pens">Pens</a></li>
             <li><a data-toggle="tab" href="#prototyping">Prototyping</a></li>
-            <li><a data-toggle="tab" href="#contact">Contact</a></li>
-            <li><a data-toggle="tab" href="#impressum">Impressum</a></li>
+
+            <li><a  href="privacypolicy.php">Datenschutz</a></li>
+            <li><a  href="impressum.php">Impressum</a></li>
+
           </ul>
           <div class="tab-content">
             <div id="bundles" class="tab-pane fade in active">
@@ -58,16 +64,6 @@
             <div id="prototyping" class="tab-pane fade">
               <?php
                 include("prototyping.php");
-              ?>
-            </div>
-            <div id="contact" class="tab-pane fade">
-              <?php
-                include("contact.php");
-              ?>
-            </div>
-            <div id="impressum" class="tab-pane fade">
-              <?php
-                include("impressum.php");
               ?>
             </div>
           </div>
