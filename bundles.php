@@ -9,11 +9,11 @@
   <div class="col-md-8">
   <div class="row">
     <div class="col-md-12 category-head">
-    <h2>Flexible Team Bundle / Starter Kit </h2>
+    <h2>Design Thinking Starter Kit / Team Bundle </h2>
     This Design Thinking equipment bundle is designed to serve the needs of one team in a workshop or a project meeting.
     It includes the most used Design Thinking material which you will have to refill regularly when organizing workshops.
     Using this Bundle, you will have one team equipped for an efficient Design Thinking workshop. You will have to add some prototyping material, if needed.
-    Alternatively, you can modify it to be highly mobile and flexible. </br></br>
+    Alternatively, you can modify the kit to be highly mobile and flexible. </br></br>
   </div>
 </div>
 <div class="row">
@@ -28,7 +28,7 @@
         <div id="postitrect" class="collapse">
           <div class="description_container">
             <?php echo $postitrect_desc; ?>
-          <a data-toggle="tab" href="#postits"> here</a>.
+          <a href="postits.php"> on our site for Design Thinking post-its</a>.
           </div>
           <?php echo $postitrect_picture; ?> </br>
           <a class="" data-toggle="collapse" href="#postitrect">Collapse</a>
@@ -41,7 +41,7 @@
           <div id="whitemarker" class="collapse">
             <div class="description_container">
               <?php echo $whitemarker_desc; ?>
-            <a data-toggle="tab" href="#pens"> here</a>.
+            <a href="pens.php"> on our site for pens and markers</a>.
             </div>
             <?php echo $whitemarker_picture; ?> </br>
             <a class="" data-toggle="collapse" href="#whitemarker">Collapse</a>
@@ -54,7 +54,7 @@
           <div id="stabilopens" class="collapse">
             <div class="description_container">
               <?php echo $stabilopens_desc; ?>
-            <a data-toggle="tab" href="#pens"> here</a>.
+            <a href="pens.php"> on our site for pens and markers</a>.
             </div>
             <?php echo $stabilopens_picture; ?> </br>
             <a class="" data-toggle="collapse" href="#stabilopens">Collapse</a>
@@ -67,10 +67,25 @@
             <div id="easyflip" class="collapse">
               <div class="description_container">
                 <?php echo $easyflip_desc; ?>
-              <a data-toggle="tab" href="#whiteboards"> here</a>.
+              <a href="whiteboards.php"> on our page for whiteboards and alternatives</a>.
               </div>
               <?php echo $easyflip_picture; ?> </br>
               <a class="" data-toggle="collapse" href="#easyflip">Collapse</a>
+            </div>
+  <!-- Anfang Beschreibung Mobile Kit -->
+          <li class="list-group-item">Transform into mobile-DT-kit
+            <a class="more pull-right" data-toggle="collapse" href="#mobilekit">Learn how to do it</a>
+          </li>
+            <div id="mobilekit" class="collapse">
+              <div class="description_container">
+                <ol>
+                  <li>Take a cord and thread it through the hole of the inner-easyflip carton.</li>
+                  <li>Seal one end of the inner carton with some duct tape.</li>
+                  <li>Put some pens, markers and post-its in the other end oft the inner carton.</li>
+                  <li>Wear it as a backpack-You got your mobile Design Thinking kit ready to go!</li>
+                </ol>
+              </div>
+              <a class="" data-toggle="collapse" href="#postitrect">Collapse</a>
             </div>
       </ul>
       <form method="POST" action="http://www.amazon.de/exec/obidos/dt/assoc/handle-buy-box=B000KTBH7G">

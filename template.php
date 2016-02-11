@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Design Thinking Material Bundles</title>
+    <title>Design Thinking Material</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -22,7 +22,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include_once("analyticstracking.php") ?>
+      <?php include_once("analyticstracking.php") ?>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 header">
@@ -31,38 +31,20 @@
       <div class="row">
         <div class="col-md-6 col-md-offset-3 role="navigation"">
           <ul class="nav nav-tabs nav-justified">
-            <li class="active"><a href="index.php">Bundles</a></li>
+            <li><a href="index.php">Bundles</a></li>
             <li><a href="whiteboards.php">Whiteboards</a></li>
             <li><a href="furniture.php">Furniture</a></li>
-            <li><a href="postits.php">Post-Its</a></li>
+            <li class="active"><a href="postits.php">Post Its</a></li>
             <li><a href="pens.php">Pens</a></li>
             <li><a href="prototyping.php">Prototyping</a></li>
 
             <li><a  href="privacypolicy.php">Datenschutz</a></li>
             <li><a  href="impressum.php">Impressum</a></li>
-
           </ul>
           <div class="tab-content">
-            <div id="bundles" class="tab-pane fade in active">
-              <?php
-                include("bundles.php");
-              ?>
+            <div id="postits" class="tab-pane fade in active">
+              Postits
             </div>
-          <!--  <div id="whiteboards" class="tab-pane fade">
-              <?php
-                //include("postits.php");
-              ?>
-            </div>
-            <div id="pens" class="tab-pane fade">
-              <?php
-              //  include("pens.php");
-              ?>
-            </div>
-            <div id="prototyping" class="tab-pane fade">
-              <?php
-              //  include("prototyping.php");
-              ?>
-            </div> -->
           </div>
         </div>
       </div>
