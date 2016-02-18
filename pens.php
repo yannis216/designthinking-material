@@ -47,7 +47,7 @@
               <div class="row">
                 <div class="row">
                   <div class="col-md-12 tab-head">
-                    <h1>Design Thinking Pens</h1>
+                    <h1>Design Thinking Pens <div class="fb-share-button" data-href="http://designthinking-material.com/pens.php" data-layout="button_count"></div></h1>
                     There are many different kinds and brands of pens that are suited for Design Thinking. However, there are certain characteristics a perfect Design Thinking pen should have.
                     They should be coloured, not to thin or to thick and markers have to be removable from whiteboards.
                   </div>

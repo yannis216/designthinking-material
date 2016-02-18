@@ -47,7 +47,7 @@
               <div class="row">
                 <div class="row">
                   <div class="col-md-12 tab-head">
-                    <h1>Design Thinking Whiteboards & Alternatives</h1>
+                    <h1>Design Thinking Whiteboards & Alternatives <div class="fb-share-button" data-href="http://designthinking-material.com/whiteboards.php" data-layout="button_count"></div></h1>
                     Every effective Design Thinking session needs lots of rewriteable space. If you do not care about the money, classic moveable whiteboards are for you.
                     However, there are many creative and cheap alternatives for whiteboards. Those low budget alternatives for whiteboards are even more flexible and mobile.
                   </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Best Design Thinking self-stick-notes</title>
+    <title>Best Design Thinking self-stick-notes </title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
               <div class="row">
                 <div class="row">
                   <div class="col-md-12 tab-head">
-                    <h1>Design Thinking Sticky Notes</h1>
+                    <h1>Design Thinking Sticky Notes <div class="fb-share-button" data-href="http://designthinking-material.com/postits.php" data-layout="button_count"></div></h1>
                     Sticky notes are essential for a productive Design Thinking Session. Why sticky notes for Design Thinking? They are small and therefore invite to write short notes. They are movable. They are coloured (and invite to be creative).
                   </div>
                 </div>
