@@ -33,7 +33,7 @@
           <ul class="nav nav-tabs nav-justified">
             <li><a href="index.php">Bundles</a></li>
             <li><a href="whiteboards.php">Whiteboards</a></li>
-            <li><a href="furniture.php">Furniture</a></li>
+                      <!--  <li><a href="furniture.php">Furniture</a></li> -->
             <li><a href="postits.php">Post-Its</a></li>
             <li><a href="pens.php">Pens</a></li>
             <li><a href="prototyping.php">Prototyping</a></li>

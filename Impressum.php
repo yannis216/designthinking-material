@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, follow">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Design Thinking Material</title>
 
@@ -33,7 +34,7 @@
           <ul class="nav nav-tabs nav-justified">
             <li><a href="index.php">Bundles</a></li>
             <li><a href="whiteboards.php">Whiteboards</a></li>
-            <li><a href="furniture.php">Furniture</a></li>
+          <!--  <li><a href="furniture.php">Furniture</a></li> -->
             <li><a href="postits.php">Post-Its</a></li>
             <li><a href="pens.php">Pens</a></li>
             <li><a href="prototyping.php">Prototyping</a></li>

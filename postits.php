@@ -33,7 +33,7 @@
           <ul class="nav nav-tabs nav-justified">
             <li><a href="index.php">Bundles</a></li>
             <li><a href="whiteboards.php">Whiteboards</a></li>
-            <li><a href="furniture.php">Furniture</a></li>
+                      <!--  <li><a href="furniture.php">Furniture</a></li> -->
             <li class="active"><a href="postits.php">Post-Its</a></li>
             <li><a href="pens.php">Pens</a></li>
             <li><a href="prototyping.php">Prototyping</a></li>
@@ -104,7 +104,7 @@
                   <div class="row">
                     <div class="col-md-12 category-head">
                       <h2>Different Brands</h2>
-                      Of course, there is more than one brand that produces sticky notes. The well known brad "Post-It" offers sticky notes in all varieties. Their products are of good quality but a little pricy. A well know alternative are the low budget sticky notes made by Tartan. It seems like the colour of their notes do not shine as bright as the post-its, but they still serve every need a Design Thinkier should have.
+                      Of course, there is more than one brand that produces sticky notes. The well known brand "Post-It" offers sticky notes in all varieties. Their products are of good quality but a little pricy. A well know alternative are the low budget sticky notes made by Tartan. It seems like the colour of their notes do not shine as bright as the post-its, but they still serve every need a Design Thinkier should have.
                       <ul>
                         <li><a class="buy" target="_blank" href="<?php echo $postitpostit_link; ?>">Post-Its on Amazon</a></li>
                         <li><a class="buy" target="_blank" href="<?php echo $postittartan_link; ?>">Tartan sticky notes on Amazon</a></li>
