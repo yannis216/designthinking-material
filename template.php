@@ -30,16 +30,22 @@
       </div>
       <div class="row">
         <div class="col-md-6 col-md-offset-3 role="navigation"">
-          <ul class="nav nav-tabs nav-justified">
+          <ul class="nav nav-pills nav-justified">
             <li><a href="index.php">Bundles</a></li>
+            <li><a href="literature.php">Literature</a></li>
             <li><a href="whiteboards.php">Whiteboards</a></li>
-            <li><a href="furniture.php">Furniture</a></li>
-            <li class="active"><a href="postits.php">Post Its</a></li>
+            <li class="active"><a href="postits.php">Notes</a></li>
             <li><a href="pens.php">Pens</a></li>
             <li><a href="prototyping.php">Prototyping</a></li>
-
-            <li><a  href="privacypolicy.php">Datenschutz</a></li>
-            <li><a  href="impressum.php">Impressum</a></li>
+            <li role="presentation" class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                Legal <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li><a  href="privacypolicy.php">Datenschutz</a></li>
+                <li><a  href="impressum.php">Impressum</a></li>
+              </ul>
+            </li>
           </ul>
           <div class="tab-content">
             <div id="postits" class="tab-pane fade in active">

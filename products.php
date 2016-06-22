@@ -72,4 +72,26 @@ $postitbigrect_desc="Very big rectangled post-its. Tell your Team to use them fo
 $postitpostit_link="http://www.amazon.de/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1638&creative=19454&fst=as%3Aoff&keywords=postit&linkCode=ur2&qid=1455723989&rh=n%3A192416031%2Ck%3Apostit%2Cp_89%3APost-it&rnid=669059031&site-redirect=de&tag=dtmaterial-21";
 $postittartan_link="http://www.amazon.de/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1638&creative=19454&fst=as%3Aoff&keywords=Tartan&linkCode=ur2&qid=1455723924&rh=n%3A192416031%2Ck%3ATartan%2Cp_89%3ATartan&rnid=669059031&sf=qz&site-redirect=de&tag=dtmaterial-21";
 
+//Start Literature
+//Start 30 Minutes
+$minutesdt_asin ="";
+$minutesdt_link ="http://amzn.to/28Q5J8h";
+$minutesdt_picture="<a href='https://www.amazon.de/Minuten-Design-Thinking-Jochen-Gürtler/dp/3869364866/ref=as_li_ss_il?ie=UTF8&qid=1466580743&sr=8-3&keywords=design+thinking&linkCode=li2&tag=dtmaterial-21&linkId=83ae09a240972633f4061dde416456ae' target='_blank'><img border='0' src='//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3869364866&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=dtmaterial-21' ></a><img src='https://ir-de.amazon-adsystem.com/e/ir?t=dtmaterial-21&l=li2&o=3&a=3869364866' width='1' height='1' border='0' alt='' style='border:none !important; margin:0px !important;' />";
+$minutesdt_desc="This book gives you a nice and handy first look on the process and the mindset behind Design Thinking. It serves well for people that are new to Design Thinking and want to refresh what they learned in a first workshop - or as a preparation for that workshop.";
+// Anfang Durch die Decke Denken
+$durchdecke_asin ="";
+$durchdecke_link ="http://amzn.to/28MP9UQ";
+$durchdecke_picture="<a href='https://www.amazon.de/Durch-die-Decke-denken-Thinking/dp/3868814795/ref=as_li_ss_il?ie=UTF8&qid=1466582232&sr=8-1&keywords=design+thinking+durch+die+decke&linkCode=li2&tag=dtmaterial-21&linkId=4d36c6620eb150de8e24b76cd8202359' target='_blank'><img border='0' src='//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3868814795&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=dtmaterial-21' ></a><img src='https://ir-de.amazon-adsystem.com/e/ir?t=dtmaterial-21&l=li2&o=3&a=3868814795' width='1' height='1' border='0' alt='' style='border:none !important; margin:0px !important;' />";
+$durchdecke_desc="This is a nice book for people that want to learn how Design Thinking is implemented in todays businesses - and how to implement it yourself. You will find some nice real world examples and blueprints to do it yourself";
+//Start Network-Thinking-Ulrich-Weinberg
+$netthink_asin ="";
+$netthink_link ="http://amzn.to/28MLHMq";
+$netthink_picture="<a href='https://www.amazon.de/Network-Thinking-Ulrich-Weinberg/dp/3867744696/ref=as_li_ss_il?ie=UTF8&qid=1466582461&sr=8-1&keywords=network+thinking&linkCode=li2&tag=dtmaterial-21&linkId=eccbaa09bc5e386be0afc802da4ed5c5' target='_blank'><img border='0' src='//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3867744696&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=dtmaterial-21' ></a><img src='https://ir-de.amazon-adsystem.com/e/ir?t=dtmaterial-21&l=li2&o=3&a=3867744696' width='1' height='1' border='0' alt='' style='border:none !important; margin:0px !important;' />";
+$netthink_desc="This book is written by Ulrich Weinberg, the head of D.School Potsdam. It centers on the collaborative mindset and will help you to understand the underlying concepts and vision of Design Thinking";
+//start change by design tim brown
+$changedt_asin ="";
+$changedt_link ="http://amzn.to/28LQvgS";
+$changedt_picture="<a href='https://www.amazon.de/Change-Design-Transforms-Organizations-Innovation/dp/0061766089/ref=as_li_ss_il?ie=UTF8&qid=1466581225&sr=8-1&keywords=tim+brown&linkCode=li2&tag=dtmaterial-21&linkId=9c4a101b8777cdb61103957746beb4e3' target='_blank'><img border='0' src='//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0061766089&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=dtmaterial-21' ></a><img src='https://ir-de.amazon-adsystem.com/e/ir?t=dtmaterial-21&l=li2&o=3&a=0061766089' width='1' height='1' border='0' alt='' style='border:none !important; margin:0px !important;' />";
+$changedt_desc="This one is like getting golf tips from Tiger Woods. Tim Brown is one of the most respected persons in the area of innovative design and Design Thinking.";
+
 ?>
